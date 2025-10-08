@@ -1,0 +1,14 @@
+﻿{
+  "Name": "StateRegion",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "eiv5kokVik6IqtTYvJTJMA",
+  "Reference": "bMvprxbW9UKbR8JnhNtNWA/eiv5kokVik6IqtTYvJTJMA",
+  "ParentRef": "bMvprxbW9UKbR8JnhNtNWA/WEdQv26SwkKxbrrZTtrziA",
+  "Created": "2025-10-07T23:42:25.0462393Z",
+  "Updated": "2025-10-07T23:42:25.0462393Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

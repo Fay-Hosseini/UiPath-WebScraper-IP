@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OX8HUxB--UaIVMp62rQMGQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="whatismyipaddress.com/ip/140.82.206.12" CVScreenId="0a47e5f1-a99f-4075-aa9f-30541eb1e588" CvType="AnyWordGroup" DesignTimeRectangle="526, 775, 70, 23" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Australia' parentid='fl-post-1165' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='fl-post-1165' tag='SPAN' type='' class='' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="1eedff85-23e0-44c0-b238-1d9492618556" ScopeSelectorArgument="&lt;html app='chrome.exe' title='IP Address Lookup for 140.82.206.12 in Melbourne, Australia' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0a47e5f1-a99f-4075-aa9f-30541eb1e588" CvTextArea="409, 778, 67, 20" CvTextArgument="Country:" CvType="Text" DesignTimeRectangle="411, 775, 115, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Country:' parentid='fl-post-1165' tag='SPAN' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Country:' /&gt;" Guid="5ed209ef-4240-4540-9792-bc48a55e56df" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="26b21c4a0683c4575285649fb7b1e63d.png" xmlns="">0B6OwDKUxhUS9T3ijuhLBew</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

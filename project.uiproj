@@ -1,0 +1,6 @@
+{
+  "Name": "IP_Location_Extractor",
+  "ProjectType": "Process",
+  "Description": "Build a bot which converts IP Addresses in an Excel spreadsheet to their respective physical locations including Country, Region and City. Use the site whatismyipaddress.com to convert the IPs",
+  "MainFile": "Main.xaml"
+}

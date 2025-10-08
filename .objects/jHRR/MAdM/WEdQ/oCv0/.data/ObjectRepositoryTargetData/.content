@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="caVWeV3Gp0qx9hicMz1D6Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="whatismyipaddress.com/ip/5.156.223.185" CVScreenId="6106348d-163e-433f-9808-e506bf17abe8" CvType="AnyWordGroup" DesignTimeRectangle="526, 839, 54, 23" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Riyadh' parentid='fl-post-1165' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='fl-post-1165' tag='SPAN' type='' class='' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="7d7fb782-cde8-4c32-b711-e5756667c232" ScopeSelectorArgument="&lt;html app='chrome.exe' title='IP Address Lookup for 5.156.223.185 in Riyadh, Saudi Arabia' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6106348d-163e-433f-9808-e506bf17abe8" CvTextArea="409, 842, 35, 20" CvTextArgument="City:" CvType="Text" DesignTimeRectangle="411, 839, 115, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='City:' parentid='fl-post-1165' tag='SPAN' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='City:' /&gt;" Guid="4d48c830-345c-4f60-bb08-aea62ccd5f1d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="404fe33bda5aea60808710e1735fa2ea.png" xmlns="">0RxOA94DRlEiD8D_W8DlkDw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

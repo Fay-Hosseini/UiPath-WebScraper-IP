@@ -1,0 +1,14 @@
+﻿{
+  "Name": "City",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "oCv0Y34lN0C-yU8kY1wrQA",
+  "Reference": "bMvprxbW9UKbR8JnhNtNWA/oCv0Y34lN0C-yU8kY1wrQA",
+  "ParentRef": "bMvprxbW9UKbR8JnhNtNWA/WEdQv26SwkKxbrrZTtrziA",
+  "Created": "2025-10-07T23:44:13.8697747Z",
+  "Updated": "2025-10-07T23:44:13.8697747Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
